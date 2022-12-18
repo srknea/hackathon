@@ -1,11 +1,10 @@
-# Film Arama
+# Movie Search
 
-- Arama sayfası yapıldı.
-- Arama API ile yapıldı.
-- Arama başarısız olduğunda uyarı verildi.
+This project is about movie search. I used TMDB API for movie data.
+
 
 # Installation
-Repository local'e indirildikten sonra ilgili dizinde aşağıdaki komutlar çalıştırılmalıdır.
+After the repository is downloaded locally, the following commands should be run in the relevant directory.
 - npm install
 - npm start
 
