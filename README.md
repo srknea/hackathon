@@ -1,0 +1,12 @@
+# Film Arama
+
+- Arama sayfası yapıldı.
+- Arama API ile yapıldı.
+- Arama başarısız olduğunda uyarı verildi.
+
+# Installation
+Repository local'e indirildikten sonra ilgili dizinde aşağıdaki komutlar çalıştırılmalıdır.
+- npm install
+- npm start
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
