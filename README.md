@@ -9,4 +9,4 @@ Repository local'e indirildikten sonra ilgili dizinde aşağıdaki komutlar çal
 - npm install
 - npm start
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](/overview.gif)
