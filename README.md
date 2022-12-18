@@ -1,6 +1,6 @@
 # Movie Search
 
-This project is about movie search. I used TMDB API for movie data.
+This project is about movie searches. TMDB API is used for movie data.
 
 ### Demo
 ![Alt Text](/overview.gif)
