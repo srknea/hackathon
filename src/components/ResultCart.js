@@ -1,14 +1,5 @@
-import React, { useContext } from "react";
-import { GlobalContext } from "../context/GlobalState";
-
 const ResultCart = ({ movie }) => {
-  const { watchlist, watched, addMovieToWatchlist, addMovieToWatched } =
-    useContext(GlobalContext);
 
-  const storedMovieWatched = watched.find((o) => o.id === movie.id);
-  const storedMovie = watchlist.find((o) => o.id === movie.id)
-    ? true
-    : !!storedMovieWatched;
   return (
     <div className="result-card">
       <div className="poster-wrapper">

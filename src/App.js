@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Routes } from "react-router-dom";
 import "./App.css";
 import "./lib/fontawesome/css/all.min.css";
 import Add from "./components/Add";

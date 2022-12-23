@@ -142,6 +142,7 @@ input:focus {
 .result-card {
   display: flex;
   margin-bottom: 20px;
+  margin-left: 50px;
 }
 
 .result-card .poster-wrapper img,
